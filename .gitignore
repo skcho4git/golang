@@ -1,0 +1,8 @@
+#ignore resources
+#eclipse project meta files
+.project
+.settings
+
+#output files
+bin/*
+pkg/*
