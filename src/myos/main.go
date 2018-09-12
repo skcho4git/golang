@@ -113,6 +113,7 @@ func main() {
 	if path, ok := os.LookupEnv("path"); ok {
 		
 		fmt.Println(path)
+		
 	} else {
 		
 		fmt.Println("no path")
